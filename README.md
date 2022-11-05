@@ -1,4 +1,6 @@
-# FizzBuzz
+# Project
+
+FizzBuzz
 
 1)write a function that loops through all the numbers from 1 to 30
 2)if the number is a multiple of 3 then it pushes "fizz" into the array
