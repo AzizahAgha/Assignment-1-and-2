@@ -26,8 +26,8 @@ Number To Ordinal
 
 3)array "two" is for numbers for 20, 30, 40, 50, .. etc
 
-4)The given number is divided into two parts, the first digit at the tens place and the second digit at the ones place, and the two parts are concatenated together . 
+4)if the number is a multiple of 10 then it'll print the number at the position (n/10) from array "two" and concatenate "th" ie twentyth, thirtyth etc. 
 
-5)if the number is greater than 19 then it'll print the first digit which is at the tens place from array "two" at the position of the number (n/10) and second digit at the ones place from the array "one" at the position (n%10)
+5)The given number is divided into two parts, the first digit at the tens place and the second digit at the ones place, and the two parts are concatenated together .If the number is greater than 19 then it'll print the first digit which is at the tens place from array "two" at the position of the number (n/10) and second digit at the ones place from the array "one" at the position (n%10)
 
-6)else it'll print the number at (n%10) potition from "one" array. 
+6)else it'll print the number at (n) potition from "one" array. 
