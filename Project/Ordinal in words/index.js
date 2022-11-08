@@ -1,8 +1,8 @@
  one = [ "", " first ", " second ", " third ", " fourth ",
-                 " fifth ", "sixth ", "seventh", " eightth ",
+                 " fifth ", "sixth ", "seventh", " eighth ",
                  " nineth ", "tenth ", "eleventh ", " twelvth ",
                  " mthirteenth ", " fourteenth ", " fifteenth ",
-                 "msixteenth ", " seventeenth ", " eighteenth ",
+                 "sixteenth ", " seventeenth ", " eighteenth ",
                  " nineteenth " ];
 
  ten = [ "", "", "twenty", "thirty", "forty",
